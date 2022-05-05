@@ -1,0 +1,26 @@
+<annotation>
+  <folder>11</folder>
+  <filename>img_v2_4245.jpg</filename>
+  <path>D:\resize\11\img_v2_4245.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>542</width>
+    <height>1023</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>玻璃器皿</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>25</xmin>
+        <ymin>271</ymin>
+        <xmax>512</xmax>
+        <ymax>719</ymax>
+      </bndbox>
+    </object>
+  </annotation>

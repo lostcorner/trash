@@ -1,0 +1,26 @@
+<annotation>
+  <folder>2</folder>
+  <filename>img_v2_1933.jpg</filename>
+  <path>D:\resize\2\img_v2_1933.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>充电宝</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>112</xmin>
+        <ymin>109</ymin>
+        <xmax>668</xmax>
+        <ymax>839</ymax>
+      </bndbox>
+    </object>
+  </annotation>

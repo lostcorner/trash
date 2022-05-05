@@ -1,0 +1,26 @@
+<annotation>
+  <folder>1</folder>
+  <filename>img_v2_840.jpg</filename>
+  <path>D:\resize\1\img_v2_840.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>陶瓷器皿</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>118</xmin>
+        <ymin>387</ymin>
+        <xmax>575</xmax>
+        <ymax>844</ymax>
+      </bndbox>
+    </object>
+  </annotation>

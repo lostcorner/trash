@@ -1,0 +1,26 @@
+<annotation>
+  <folder>5</folder>
+  <filename>img_v2_2543.jpg</filename>
+  <path>D:\resize\5\img_v2_2543.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>473</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>插头电线</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>45</xmin>
+        <ymin>413</ymin>
+        <xmax>400</xmax>
+        <ymax>561</ymax>
+      </bndbox>
+    </object>
+  </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>10</folder>
+  <filename>img_v2_3946.jpg</filename>
+  <path>D:\resize\10\img_v2_3946.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>洗护用品</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>146</xmin>
+        <ymin>143</ymin>
+        <xmax>588</xmax>
+        <ymax>645</ymax>
+      </bndbox>
+    </object>
+  </annotation>

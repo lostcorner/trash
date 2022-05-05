@@ -1,0 +1,26 @@
+<annotation>
+  <folder>11</folder>
+  <filename>img_v2_4205.jpg</filename>
+  <path>D:\resize\11\img_v2_4205.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>512</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>玻璃器皿</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>47</xmin>
+        <ymin>50</ymin>
+        <xmax>511</xmax>
+        <ymax>731</ymax>
+      </bndbox>
+    </object>
+  </annotation>

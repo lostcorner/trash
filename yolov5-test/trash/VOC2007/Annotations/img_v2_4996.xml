@@ -1,0 +1,26 @@
+<annotation>
+  <folder>16</folder>
+  <filename>img_v2_4996.jpg</filename>
+  <path>D:\resize\16\img_v2_4996.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>576</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>酒瓶</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>84</xmin>
+        <ymin>0</ymin>
+        <xmax>368</xmax>
+        <ymax>971</ymax>
+      </bndbox>
+    </object>
+  </annotation>

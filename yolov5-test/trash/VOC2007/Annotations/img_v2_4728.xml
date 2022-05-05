@@ -1,0 +1,26 @@
+<annotation>
+  <folder>13</folder>
+  <filename>img_v2_4728.jpg</filename>
+  <path>D:\resize\13\img_v2_4728.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>179</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>纸袋</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>0</xmin>
+        <ymin>61</ymin>
+        <xmax>168</xmax>
+        <ymax>302</ymax>
+      </bndbox>
+    </object>
+  </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>22</folder>
+  <filename>img_v2_6209.jpg</filename>
+  <path>D:\resize\22\img_v2_6209.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>过期药物</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>86</xmin>
+        <ymin>349</ymin>
+        <xmax>676</xmax>
+        <ymax>794</ymax>
+      </bndbox>
+    </object>
+  </annotation>

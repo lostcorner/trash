@@ -1,0 +1,26 @@
+<annotation>
+  <folder>1</folder>
+  <filename>img_v2_1438.jpg</filename>
+  <path>D:\resize\1\img_v2_1438.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>果皮果肉</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>284</xmin>
+        <ymin>401</ymin>
+        <xmax>531</xmax>
+        <ymax>667</ymax>
+      </bndbox>
+    </object>
+  </annotation>

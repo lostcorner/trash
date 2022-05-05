@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1label</folder>
+	<filename>img_v2_5647.jpg</filename>
+	<path>C:\Users\hwx594248\Desktop\1label\img_v2_5647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>饮料盒</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>33</ymin>
+			<xmax>507</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>试标图</folder>
+  <filename>img_v2_1000.jpg</filename>
+  <path>D:\resize\试标图\img_v2_1000.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>371</width>
+    <height>400</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>剩饭剩菜</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>1</xmin>
+        <ymin>47</ymin>
+        <xmax>364</xmax>
+        <ymax>376</ymax>
+      </bndbox>
+    </object>
+  </annotation>

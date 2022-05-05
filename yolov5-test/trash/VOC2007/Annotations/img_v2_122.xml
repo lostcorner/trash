@@ -1,0 +1,26 @@
+<annotation>
+  <folder>garbage_classify_v3-1</folder>
+  <filename>img_v2_122.jpg</filename>
+  <path>D:\resize\garbage_classify_v3-1\img_v2_122.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+      <name>一次性快餐盒</name>
+      <pose>Unspecified</pose>
+      <truncated>1</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>255</xmin>
+        <ymin>87</ymin>
+        <xmax>881</xmax>
+        <ymax>657</ymax>
+      </bndbox>
+    </object>
+  </annotation>
